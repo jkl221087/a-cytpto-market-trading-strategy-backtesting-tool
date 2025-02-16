@@ -1,0 +1,8 @@
+交易對 (Symbol),起始日期 (YYYY-MM-DD),下載 CSV 檔案,狀態訊息,timestamp
+BTC-USDT,2022-01-01,.gradio\flagged\下載 CSV 檔案\d89235eebdc6c960035d\BTC_USDT_kline_data.csv,共抓取 999 根 K 線資料，CSV 檔案已儲存：BTC_USDT_kline_data.csv,2025-02-14 15:04:10.463870
+BTC-USDT,2024-01-01,.gradio\flagged\下載 CSV 檔案\d72c0a799f54c84d2eba\BTC_USDT_kline_data.csv,共抓取 999 根 K 線資料，CSV 檔案已儲存：BTC_USDT_kline_data.csv,2025-02-14 15:14:46.588437
+BTC-USDT,2024-01-01,.gradio\flagged\下載 CSV 檔案\e03860834f02ee9f2954\BTC_USDT_kline_data.csv,共抓取 999 根 K 線資料，CSV 檔案已儲存：BTC_USDT_kline_data.csv,2025-02-14 15:15:35.545480
+BTC-USDT,2024-01-01,.gradio\flagged\下載 CSV 檔案\038a0632406ae7fa0f05\BTC_USDT_kline_data.csv,共抓取 999 根 K 線資料，CSV 檔案已儲存：BTC_USDT_kline_data.csv,2025-02-14 15:18:58.262888
+BTC-USDT,2024-01-01,.gradio\flagged\下載 CSV 檔案\80d8fe353752ef77f9e7\BTC_USDT_kline_data.csv,共抓取 999 根 K 線資料，CSV 檔案已儲存：BTC_USDT_kline_data.csv,2025-02-14 15:22:02.911237
+BTC-USDT,2024-01-01,,,2025-02-14 15:43:40.538666
+BTC-USDT,2024-01-01,,,2025-02-14 15:43:48.712095

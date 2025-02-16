@@ -1,0 +1,2 @@
+交易對 (Symbol),起始日期 (YYYY-MM-DD),下載 CSV 檔案,狀態訊息,timestamp
+BTC-USDT,2023-01-01,.gradio\flagged\下載 CSV 檔案\2d47ea8e443f9e81a96b\BTC_USDT_kline_data.csv,共抓取 18640 根 K 線資料，CSV 檔案已儲存：BTC_USDT_kline_data.csv,2025-02-15 04:31:59.150591
